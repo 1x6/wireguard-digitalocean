@@ -1,7 +1,11 @@
 # WireGuard installer for digitalocean
 
 put in digitalocean "user data" when creating a droplet and then visit the ip to get the config
-<video src="https://cdn.discordapp.com/attachments/1048061961121841213/1052938168573382756/Untitled.mp4">
+
+
+https://user-images.githubusercontent.com/44981148/207870028-700d3d66-2995-491c-8d24-dfc7a194f00f.mp4
+
+
 
 ## Requirements
 
