@@ -2,7 +2,7 @@
 
 # Secure WireGuard server installer
 # https://github.com/angristan/wireguard-install
-PUBLIC_IPV4=$(curl -s http://169.254.169.254/metadata/v1/interfaces/public/0/ipv4/address)
+
 RED='\033[0;31m'
 ORANGE='\033[0;33m'
 NC='\033[0m'
